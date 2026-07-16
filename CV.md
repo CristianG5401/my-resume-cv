@@ -7,7 +7,7 @@ been front-end development with React and Angular, but I'm also skilled in
 back-end development with Node.js and PHP. I am a quick learner who can absorb
 new ideas and can communicate clearly and effectively.
 
-**_Summary of Qualifications_**
+**_Summary of Qualifications_**  
 Proficient In:
 
 - Javascript
@@ -33,9 +33,9 @@ Proficient In:
 
 ---
 
-**Imagine Learning \- Weldnorth \- Globant**
-**March. 2020 – Today**
-**Medellin, Colombia**
+**Imagine Learning \- Weldnorth \- Globant**  
+**June. 2020 – Today**  
+**Medellin, Colombia**  
 
 **Web UI Developer**  
 I worked on various projects, most of the work was focused on migrating old
@@ -69,9 +69,9 @@ The following technologies and tools were used in this project:
 
 ---
 
-**Realogy \- Social Concierge \- Globant**
-**March. 2020 – June. 2020**
-**Medellin, Colombia**
+**Realogy \- Social Concierge \- Globant**  
+**March. 2020 – June. 2020**  
+**Medellin, Colombia**  
 
 **Web UI Developer**  
 In this project, a proof of concept was created that met the following requirements.
@@ -89,9 +89,9 @@ The following technologies and tools were used in this project:
 
 ---
 
-**Dave & Buster’s \- Globant, Medellin, Colombia January. 2020 – March. 2020**
-**March. 2020 – June. 2020**
-**Medellin, Colombia**
+**Dave & Buster’s \- Globant**  
+**January. 2020 – March. 2020**  
+**Medellin, Colombia**  
 
 **Web UI Developer**  
 In this project we worked for a short time in the creation of a new CMS with
@@ -106,9 +106,9 @@ The following technologies and tools were used in this project:
 
 ---
 
-**Autodesk BIM360 Reports \- Globant, Medellin, Colombia October. 2018 –
-January. 2020**  
-**Web UI Developer**
+**Autodesk BIM360 Reports \- Globant**  
+**October. 2018 – January. 2020**  
+**Medellin, Colombia**  
 
 - Development of all End 2 End testing suite using cypress for the UI application.
 - Cypress integration in the Jenkins pipeline to automate the entire end-to-end
@@ -130,7 +130,10 @@ The following technologies and tools were used in this project:
 
 ---
 
-**IGB Motorcycle Parts, La Estrella, Colombia June. 2017 – September. 2018**  
+**IGB Motorcycle Parts**  
+**June. 2017 – September. 2018**  
+**La Estrella, Colombia**  
+
 **Full-Stack Developer**  
 Design, construction, and development of Web applications and hybrid mobile
 applications responsible for the tracking of company workers, order taking,
@@ -146,7 +149,10 @@ The following technologies and tools were used in this project:
 
 ---
 
-**Innovapues, Medellin, Colombia May. 2015 – June. 2017**  
+**Innovapues**  
+**May. 2015 – June. 2017**  
+**Medellin, Colombia**  
+
 **Full-Stack Developer**  
 Design, construction, and deployment of Web applications for education, health,
 and transport.
@@ -162,7 +168,10 @@ and custom reports. Vue.js \- D3.js \- HTML \- LESS \- Yii2
 
 ---
 
-**Integro, Medellin, Colombia October. 2014 – May. 2015**  
+**Integro**  
+**October. 2014 – May. 2015**  
+**Medellin, Colombia**  
+
 **Web Developer**  
 Design, construction and deployment of a web application for health that
 suggests the user some behaviors or practices that help you improve your
@@ -176,7 +185,10 @@ health as diet and good habits.
 
 ---
 
-**Melborp, Medellin, Colombia May. 2014 – October. 2014**  
+**Melborp**  
+**May. 2014 – October. 2014**  
+**Medellin, Colombia**  
+
 **Web Developer**  
 Design, construction, deployment and management of websites and Construction,
 deployment of an application in Node.js and MongoDB to manage time and tasks
@@ -188,7 +200,10 @@ of employees in the company.
 
 ---
 
-**Ingenio Sólido S.A.S, Medellin, Colombia February. 2011 – January. 2014**  
+**Ingenio Sólido S.A.S**  
+**February. 2011 – January. 2014**  
+**Medellin, Colombia**  
+
 **Web Developer**  
 Design, construction, and deployment of a Web application for integrated
 transport system (Metro) to allow you analyze the times in the metro route
